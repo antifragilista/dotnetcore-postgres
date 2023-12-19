@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YtCQwtX0iwubkeMSlGNSJrLEfFHc4P3g08faX0H/cHBQjTSSPGRL0u09slaQl3O8QxNq+Eex3+BHGbURnkk5ng==",
+  "dgSpecHash": "RS5ubfPDj4mTORrVNXipFs+WczPuLRCNxaG0GbjygnxhR5ol1rmt/Dptp2devpnA6s7ZICYTcRGjztuLjt/U7Q==",
   "success": true,
   "projectFilePath": "/Users/kevin/Development/02.study/03.asp-dotnet-core/dotnetcore-postgres/dotnetcore-postgres.csproj",
   "expectedPackageFiles": [
